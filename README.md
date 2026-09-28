@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bensonliu16/bensonliu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Benson Liu 👋
 
-Here are some ideas to get you started:
+### Student developer exploring computer vision, AI, and practical automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-bensonliu16-181717?style=for-the-badge&logo=github)](https://github.com/bensonliu16)
+
+</div>
+
+## About me
+
+- Cornell_2030, Interested in AI, data science, and automation
+
+
+## Projects
+
+### Real-time vehicle and license-plate vision system
+
+An evolving computer-vision project combining object detection, tracking, region analysis, and license-plate recognition. It also explores real-time camera streams and automated gimbal control.
+
+`Python` `YOLO` `OpenCV` `PyTorch` `Transformers`
+
+### 💬Real time phishing detection bot
+
+A containerized LINE bot application with a Python web service and Nginx, packaged with Docker for repeatable deployment.
+
+`Python` `Flask` `LINE Bot SDK` `Docker` `Nginx`
+
+## Technologies
+
+| Area | Tools |
+| --- | --- |
+| Languages | Python, Java |
+| AI & computer vision | YOLO, OpenCV, PyTorch, Transformers |
+| Backend & deployment | Flask, Docker, Nginx |
+| Developer tools | Git, GitHub |
+
+---
+
+<div align="center">
+  <i>Always learning, building, and improving.</i>
+</div>
