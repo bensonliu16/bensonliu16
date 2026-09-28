@@ -10,22 +10,22 @@
 
 ## About me
 
-- Cornell_2030, Interested in AI, data science, and automation
-
+- Cornell University ’30
+- Interested in AI, data science, computer vision, and automation
 
 ## Projects
 
-### Real-time vehicle and license-plate vision system
+### [Taiwan License Plate Recognition](https://github.com/bensonliu16/taiwan-license-plate-recognition)
 
-An evolving computer-vision project combining object detection, tracking, region analysis, and license-plate recognition. It also explores real-time camera streams and automated gimbal control.
+Real-time Taiwanese license plate detection and recognition using YOLO and InternVL3.
 
-`Python` `YOLO` `OpenCV` `PyTorch` `Transformers`
+`Python` `YOLO` `OpenCV` `PyTorch` `Transformers` `InternVL3`
 
-### 💬Real time phishing detection bot
+### [Real-Time Phishing Detection Bot](https://github.com/bensonliu16/real-time-phishing-detection-bot)
 
-A containerized LINE bot application with a Python web service and Nginx, packaged with Docker for repeatable deployment.
+A LINE bot that checks submitted URLs using a threat-intelligence API and returns safety results.
 
-`Python` `Flask` `LINE Bot SDK` `Docker` `Nginx`
+`Python` `Flask` `LINE Bot SDK` `Threat Intelligence`
 
 ## Technologies
 
@@ -33,7 +33,5 @@ A containerized LINE bot application with a Python web service and Nginx, packag
 | --- | --- |
 | Languages | Python, Java |
 | AI & computer vision | YOLO, OpenCV, PyTorch, Transformers |
-| Backend & deployment | Flask, Docker, Nginx |
+| Backend & integrations | Flask, LINE Bot SDK, REST APIs |
 | Developer tools | Git, GitHub |
-
----
