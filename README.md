@@ -37,7 +37,3 @@ A containerized LINE bot application with a Python web service and Nginx, packag
 | Developer tools | Git, GitHub |
 
 ---
-
-<div align="center">
-  <i>Always learning, building, and improving.</i>
-</div>
